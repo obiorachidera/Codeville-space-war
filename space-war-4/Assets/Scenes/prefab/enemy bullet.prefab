@@ -98,7 +98,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 079c6c7a8629ad24a9c108a1af837ded, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 27
+  speed: 10
   deactivate_timer: 2
   direction: {x: 0, y: 0}
   isEnemy: 1

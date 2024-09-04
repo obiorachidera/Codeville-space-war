@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: aca6a3d7d5a3e2c44b7835e757b14f07
+guid: 7ae20253c9898204490f30694d4d923a
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -95,7 +95,28 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: download__3_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 107
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc72fcce142b4e540a3605238efab25f
+      internalID: 430375798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -106,7 +127,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      download__3_-removebg-preview_0: 430375798
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
